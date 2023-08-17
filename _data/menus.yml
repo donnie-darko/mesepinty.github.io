@@ -1,0 +1,18 @@
+main:
+  - name: "Meseajándék"
+    url: "/meseajandek/"
+    weight: 2
+  - name: "Rólam"
+    url: "/rolam/"
+    weight: 4
+  - name: "Kapcsolat"
+    url: "/kapcsolat/"
+    weight: 5
+
+footer:
+  - name: "Nyitólap"
+    url: "/"
+    weight: 1
+  - name: "Kapcsolat"
+    url: "/kapcsolat/"
+    weight: 2
