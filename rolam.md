@@ -5,7 +5,7 @@ description: Ki írja a meséket?
 bodyClass: page-about
 ---
 
-![](/images/rolam.jpg)
+![Janecskó Kata](/images/rolam.jpg)
 
 Janecskó Katának hívnak, egy hatéves, fürtös kisfiú mamája vagyok, és körülbelül húsz éve foglalkozom írással, újságírással. 
 

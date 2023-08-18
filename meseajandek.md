@@ -18,7 +18,7 @@ De egyénre szabott mese készülhet csupa teljesen fantázia szülte szereplőv
 - akár verses formában is tudok írni
 - a meseírást egyhetes határidővel tudom vállalni, de ha sürgősebb, megbeszélhetünk egyedi határidőt
 - a mesék ára 15000 és 30000 forint között alakul az egyedi jellemzők alapján 
-- Írj nekem üzenetet a {% if site.data.contact.email %} <a href="mailto:{{ .site.data.contact.email }}">{{ site.data.contact.email }}</a>{% endif %} címre, és minden részletet meg tudunk beszélni!
+- Írj nekem üzenetet a {% if site.data.contact.email %} <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>{% endif %} címre, és minden részletet meg tudunk beszélni!
 
 # A meseíróról
 
