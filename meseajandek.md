@@ -21,6 +21,7 @@ Megnéznél egy példát Szitnyai Kriszti szuper illusztrációival?
 - kérhető hozzájuk illusztráció
 - akár verses formában is tudok írni
 - a meseírást egyhetes határidővel tudom vállalni, de ha sürgősebb, megbeszélhetünk egyedi határidőt
+- Figyelem! A mesét nem könyv formájában tudjuk átadni, hanem kinyomtatható pdf-fájlként
 - Írj nekem üzenetet a {% if site.data.contact.email %} <a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a>{% endif %} címre, és minden részletet meg tudunk beszélni!
 
 # Az árakról
