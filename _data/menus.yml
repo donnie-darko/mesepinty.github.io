@@ -16,3 +16,6 @@ footer:
   - name: "Kapcsolat"
     url: "/kapcsolat/"
     weight: 2
+  - name: "Adatkezelési tájékoztató"
+    url: "/adatkezeles/"
+    weight: 3
